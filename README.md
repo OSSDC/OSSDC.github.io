@@ -1,1 +1,1 @@
-# The HOUSE Of OSSDC is under the active construction!
+# The house Of OSSDC is under the active construction!
