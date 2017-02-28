@@ -1,5 +1,7 @@
 
-A global open organization comprised of several dedicated teams working on full stack open source software and hardware to allow anyone to build from toy to full size self driving cars
+##Open Source Self Driving Car Initiative
+
+A global and open organization comprised of several dedicated people working (in their free time) on full stack open source software and hardware to allow anyone to build from toy to full size self driving cars
 
 We invite everyone to join the conversation and participate in OSSDC Slack team
 
