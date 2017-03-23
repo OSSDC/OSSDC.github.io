@@ -1,5 +1,5 @@
 
-##Open Source Self Driving Car Initiative
+## Open Source Self Driving Car Initiative
 
 A global and open organization comprised of several dedicated people working (in their free time) on full stack open source software and hardware to allow anyone to build from toy to full size self driving cars
 
